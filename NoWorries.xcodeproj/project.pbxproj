@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					22C400A31C1811CC00A9AC25 = {
 						CreatedOnToolsVersion = 7.1;
+						DevelopmentTeam = SC6R6MV2N8;
 					};
 					22C400B71C1811CD00A9AC25 = {
 						CreatedOnToolsVersion = 7.1;
@@ -397,6 +398,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = NoWorries/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.beyond2021.NoWorries;
@@ -408,6 +410,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = NoWorries/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.beyond2021.NoWorries;
